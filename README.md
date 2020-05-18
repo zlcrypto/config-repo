@@ -1,0 +1,2 @@
+# config-repo
+mango-config
